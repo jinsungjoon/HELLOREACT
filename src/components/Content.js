@@ -1,8 +1,5 @@
 
 import { Component } from 'react/cjs/react.production.min';
-
-
-
 class Content extends Component{
   render(){
     return (
